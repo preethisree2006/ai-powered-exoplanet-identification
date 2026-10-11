@@ -77,8 +77,11 @@ The proposed workflow, model selection, and interface design are documented in t
 
 This project was developed collaboratively.
 
-- **Preethi Sree K** — [Add your actual contributions]
-- **[Teammate's Name]** — [Add teammate's actual contributions]
+- **[Kavin M]** — [Machine learning model development and classification.]
+- **[Preethi Sree K]** — [Astronomical data collection, preprocessing, and dataset preparation.]
+- **[Priya P]** — [Feature engineering and model performance evaluation.]
+- **[Mohana Priya D]** — [Web interface development and data visualization.]
+- **[Keerthivarman S]** — [Backend integration, prediction pipeline, and testing.]
 
 ## 📄 Disclaimer
 
